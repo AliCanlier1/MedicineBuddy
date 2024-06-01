@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570562302897",
+    "project_id": "medicinebuddy-23bed",
+    "storage_bucket": "medicinebuddy-23bed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570562302897:android:60fafe9d2a3715a2c12390",
+        "android_client_info": {
+          "package_name": "com.example.medicine_buddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUDabc-FvG82r59bQF2HmwMhZTSFU1JLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
