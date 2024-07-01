@@ -15,6 +15,9 @@ This project is a system developed to ensure that people take their medications 
 - **Database**: MySQL is used for reliable and efficient data storage and retrieval.
 - **Backend as a Service (BaaS)**: Firebase is utilized for handling real-time notifications and authentication.
 
+## Database Schema
+<img src="https://github.com/AliCanlier1/MedicineBuddy/assets/114236364/7e974e6f-f6c0-4bc7-aed6-c45acf1a2f13" width="250" height="450">
+
 ## Screens
 ### Patient Screen
 <img src="https://github.com/AliCanlier1/MedicineBuddy/assets/114236364/2ba49b2a-2624-482c-8821-ba22b0e98ef1" width="250" height="450"><br>
