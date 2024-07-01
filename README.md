@@ -16,7 +16,7 @@ This project is a system developed to ensure that people take their medications 
 - **Backend as a Service (BaaS)**: Firebase is utilized for handling real-time notifications and authentication.
 
 ## Database Schema
-<img src="https://github.com/AliCanlier1/MedicineBuddy/assets/114236364/7e974e6f-f6c0-4bc7-aed6-c45acf1a2f13" width="250" height="450">
+<img src="https://github.com/AliCanlier1/MedicineBuddy/assets/114236364/7e974e6f-f6c0-4bc7-aed6-c45acf1a2f13" width="500" height="500">
 
 ## Screens
 ### Patient Screen
