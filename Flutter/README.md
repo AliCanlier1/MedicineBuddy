@@ -12,4 +12,4 @@ Patients can see if they have taken their daily and monthly medication, can add 
 <img src="https://github.com/AliCanlier1/MedicineBuddy/assets/114236364/5027bc59-ad99-4568-b63c-647534f06f00" width="250" height="450">
 <img src="https://github.com/AliCanlier1/MedicineBuddy/assets/114236364/7ea49d06-d196-4c24-b994-7282777cc1ad" width="250" height="450">
 
-Patients are notified according to the hours they add. If the patient does not receive the notification, the same notification goes to the patient's buddys
+Patients are notified according to the hours they add. If the patient does not receive the notification, the same notification goes to the patient's buddys.
