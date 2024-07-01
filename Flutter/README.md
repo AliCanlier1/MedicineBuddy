@@ -4,7 +4,7 @@ Taking medication regularly is the most important part of the healing process. T
 ## What is MedicineBuddy?
 
 ### Patient Screen
-![Patient Screen](https://github.com/AliCanlier1/MedicineBuddy/assets/114236364/621bcb3d-05fb-4b20-b8ee-b4cf7aa188c3){height="30px" width="40px"}
+![Patient Screen](https://github.com/AliCanlier1/MedicineBuddy/blob/main/assets/114236364/621bcb3d-05fb-4b20-b8ee-b4cf7aa188c3.png){:height="300px" width="400px"}
 
 Patients can see if they have taken their daily and monthly medication, can add medicines and see the medicines they have taken in the past.
 
