@@ -19,4 +19,4 @@ Buddies and doctors can go to the patient screen to add patients, search and rev
 ### Critical Notification System
 <img src="https://github.com/AliCanlier1/MedicineBuddy/assets/114236364/fbfdfac4-3861-47a7-baab-35d9f612af57" width="250" height="450">
 <img src="https://github.com/AliCanlier1/MedicineBuddy/assets/114236364/ea1fb9e5-b4c5-4f31-a0d3-2dcf7bf68ef4" width="250" height="450"><br>
-If the medication the patient is not taking is critical for the patient, the app sends notifications to both the patient and the buddysin at certain time intervals.
+If the medication the patient is not taking is critical for the patient, the app sends notifications to both the patient and the buddys in at certain time intervals.
