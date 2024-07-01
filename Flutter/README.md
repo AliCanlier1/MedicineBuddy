@@ -14,7 +14,7 @@ Patients can see if they have taken their daily and monthly medication, can add 
 
 Patients are notified according to the hours they add. If the patient does not receive the notification, the same notification goes to the patient's buddys.
 
-### Buddy Screen
+### Buddy and Doctor Screen
 <img src="https://github.com/AliCanlier1/MedicineBuddy/assets/114236364/a08ebe06-bda9-4a17-9e89-defba84a4cbf" width="250" height="450">
 
-Buddy can go to the patient screen to add patients, search and review the status of their current patients.
+Buddies and doctors can go to the patient screen to add patients, search and review the status of their current patients.
