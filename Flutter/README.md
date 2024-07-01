@@ -13,3 +13,8 @@ Patients can see if they have taken their daily and monthly medication, can add 
 <img src="https://github.com/AliCanlier1/MedicineBuddy/assets/114236364/7ea49d06-d196-4c24-b994-7282777cc1ad" width="250" height="450">
 
 Patients are notified according to the hours they add. If the patient does not receive the notification, the same notification goes to the patient's buddys.
+
+### Buddy Screen
+<img src="https://github.com/AliCanlier1/MedicineBuddy/assets/114236364/a08ebe06-bda9-4a17-9e89-defba84a4cbf" width="250" height="450">
+
+Buddy can go to the patient screen to add patients, search and review the status of their current patients.
