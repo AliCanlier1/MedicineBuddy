@@ -1,16 +1,9 @@
-# medicine_buddy
+# MedicineBuddy Motivation
+Taking medication regularly is the most important part of the healing process. Today, people often forget to take their medication. The aim of this application is to reduce and control this forgetfulness.
 
-A new Flutter project.
+## What is MedicineBuddy?
 
-## Getting Started
+### Patient Screen
+![Patient Screen](https://github.com/AliCanlier1/MedicineBuddy/assets/114236364/621bcb3d-05fb-4b20-b8ee-b4cf7aa188c3)
+Patients can see if they have taken their daily and monthly medication, can add medicines and see the medicines they have taken in the past.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
